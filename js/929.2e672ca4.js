@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkmyprofile"]=self["webpackChunkmyprofile"]||[]).push([[929],{4929:(e,s,t)=>{t.r(s),t.d(s,{default:()=>i});var n=t(3673);const r={class:"item"};function c(e,s){return(0,n.wg)(),(0,n.iD)("div",r,"About Me")}const u={};u.render=c;const i=u}}]);
